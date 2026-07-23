@@ -42,5 +42,5 @@ Sample Superstore Dataset (.csv)
 
 ## 📷 Dashboard Preview
 
-<img width="1161" height="648" alt="dashboard" src="https://github.com/user-attachments/assets/018d76b7-fb06-4fda-a212-29dc675fd2ef" />
+![Dashboard](dashboard.png)
 
